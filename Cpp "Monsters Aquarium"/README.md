@@ -19,3 +19,5 @@ item apple <x position> <y position>
 item monster <x position> <y position> <number of steps before changing direction>
 ```
 Aplles are stationary, while monsters move around and will become stronger (and bigger) every time they eat apples or defeat another monster.
+
+An input example is provided: `input_example.txt`
