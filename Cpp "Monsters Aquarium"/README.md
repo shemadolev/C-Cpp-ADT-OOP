@@ -1,14 +1,14 @@
 ## Demonstrates C++ classes, inheritance, virtual classes, and terminal "GUI".
 
 The program expects initial user commands, and then simulates different creatures in different sizes that move and fight (pseudo) randomly.
-All actions will written into a log file.
+All actions will be written into a log file.
 
 Input should be in the following format:
 
 ### Part 1:
 ```
 log <name for a log file>
-seed <integer as a seed for the random actions>
+seed <integer as a seed for the pseudo-random actions>
 size <dimension x for the arena> <dimension y for the arena>
 steps <number of steps to run the simulation>
 ```
