@@ -1,4 +1,4 @@
-log out6.txt
+log out.txt
 seed 36
 size 32 20 
 steps 300
