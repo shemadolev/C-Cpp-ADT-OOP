@@ -1,0 +1,64 @@
+log out6.txt
+seed 36
+size 32 20 
+steps 300
+item monster 28 1 4
+item apple 4 6
+item apple 4 7
+item apple 4 8
+item apple 4 9
+item apple 5 10
+item apple 5 11
+item apple 6 12
+item apple 7 13
+item apple 8 14
+item apple 9 15
+item monster 21 4 0
+item monster 5 15 0
+item monster 24 8 4
+item monster 13 5 0
+item monster 6 11 5
+item monster 14 13 3
+item monster 15 10 1
+item monster 21 6 5
+item monster 15 12 2
+item monster 25 7 2
+item monster 24 18 4
+item monster 3 12 3
+item monster 8 15 0
+item monster 9 2 2
+item monster 11 15 5
+item monster 20 6 2
+item monster 12 2 3
+item monster 24 11 2
+item monster 5 16 3
+item monster 16 6 3
+item monster 15 7 5
+item monster 19 18 4
+item monster 24 14 2
+item monster 19 18 1
+item monster 7 2 3
+item monster 10 10 3
+item monster 14 1 4
+item monster 17 14 4
+item monster 25 15 0
+item monster 9 16 2
+item monster 5 8 4
+item monster 1 18 1
+item monster 13 5 1
+item monster 19 9 3
+item monster 14 7 5
+item monster 6 4 0
+item monster 28 7 3
+item monster 13 8 4
+item monster 5 11 2
+item monster 21 15 3
+item monster 4 10 2
+item monster 12 8 4
+item monster 25 11 2
+item monster 23 1 2
+item monster 13 3 4
+item monster 7 11 0
+item monster 26 10 5
+item monster 8 4 0
+item monster 25 17 5
